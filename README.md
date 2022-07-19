@@ -7,7 +7,7 @@ This program will brute force any Instagram account you send it its way given a 
 
 ### NOTICE
 
-~~I'm no longer maintaining this project.~~
+Unzip The lib and Use The Script
 
 ### Support
 
