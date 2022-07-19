@@ -174,7 +174,7 @@ def args():
 
 
 def prune_database(prune: float) -> None:
-    score = prune * 100
+    score = prune * 0
 
     if (
         input(
